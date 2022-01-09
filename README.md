@@ -1,0 +1,1 @@
+# Pratikler-.Net-Core-Intermediate
